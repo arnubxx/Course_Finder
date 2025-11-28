@@ -30,43 +30,4 @@ public class CourseService {
                 String[] arr = parseCsvLine(line);
                 if (arr.length < 6) continue;
                 Course c = new Course(
-                    arr[1].trim(), // title
-                    arr[2].trim(), // description
-                    arr[3].trim(), // category
-                    arr[4].trim(), // difficulty
-                    arr[5].trim()  // courseUrl
-                );
-                courses.add(c);
-            }
-            br.close();
-            System.out.println("Loaded " + courses.size() + " courses");
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
-
-    private String[] parseCsvLine(String line) {
-        List<String> tokens = new ArrayList<>();
-        StringBuilder sb = new StringBuilder();
-        boolean inQuotes = false;
-        for (int i = 0; i < line.length(); i++) {
-            char c = line.charAt(i);
-            if (c == '"') {
-                inQuotes = !inQuotes;
-            } else if (c == ',' && !inQuotes) {
-                tokens.add(sb.toString());
-                sb.setLength(0);
-            } else {
-                sb.append(c);
-            }
-        }
-        tokens.add(sb.toString());
-        return tokens.toArray(new String[0]);
-    }
-
-    public List<Course> getAll() {
-        return courses;
-    }
-}
-
-
+                    arr[1].trim(), 

@@ -2,12 +2,7 @@ package com.recommender.ml;
 
 public class CosineSimilarity {
 
-    /**
-     * Computes cosine similarity between two vectors
-     * @param a first vector
-     * @param b second vector
-     * @return similarity score between 0 and 1
-     */
+    
     public static double compute(double[] a, double[] b) {
         double dot = 0.0, normA = 0.0, normB = 0.0;
         int n = Math.min(a.length, b.length);
