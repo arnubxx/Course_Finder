@@ -34,4 +34,11 @@ public class RecommendationController {
         model.addAttribute("interests", interests);
         return "results";
     }
+
+    @GetMapping("/recommend")
+    public String recommendGet(Model model) {
+        // Optionally, you can add a message to inform the user
+        model.addAttribute("error", "Please use the form to get recommendations.");
+        return "redirect:/";
+    }
 }
