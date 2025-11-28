@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" />
+    <title>Recommendations</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div class="container">
+    <h1>Recommended Courses</h1>
+    <p th:text="'Based on: ' + ${interests}"></p>
+
+    <div class="results">
+        <div class="card" th:each="entry : ${results}">
+            <h2>
+                <a th:href="${entry.course.courseUrl}" th:text="${entry.course.title}" target="_blank" rel="noopener"></a>
+            </h2>
+            <p th:text="${entry.course.description}"></p>
+            <div class="card-details">
+                <span><b>Provider:</b> Coursera</span>
+                <span><b>Instructor:</b> John Doe</span>
+                <span><b>Duration:</b> 6 weeks</span>
+            </div>
+            <div class="meta">
+                <span class="tag" th:text="${entry.course.category}"></span>
+                <span class="tag" th:text="${entry.course.difficulty}"></span>
+                <span class="score" th:if="${entry.score != null and entry.score > 0}" th:text="${#numbers.formatDecimal(entry.score * 100, 1, 2)} + '%' "></span>
+            </div>
+        </div>
+    </div>
+
+    <a href="/">Back</a>
+</div>
+</body>
+</html>

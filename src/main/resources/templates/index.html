@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" />
+    <title>Course Finder</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div class="container">
+    <h1>Course Finder</h1>
+    <p>Type a few keywords about your interests (e.g. "machine learning python")</p>
+    <form action="/recommend" method="post">
+        <label for="interests">Interests</label>
+        <input id="interests" name="interests" placeholder="e.g. machine learning, python" required />
+
+        <label for="difficulty">Difficulty</label>
+        <select id="difficulty" name="difficulty">
+            <option value="any">Any</option>
+            <option value="Beginner">Beginner</option>
+            <option value="Intermediate">Intermediate</option>
+            <option value="Advanced">Advanced</option>
+        </select>
+
+        <button type="submit">Get Recommendations</button>
+    </form>
+</div>
+</body>
+</html>

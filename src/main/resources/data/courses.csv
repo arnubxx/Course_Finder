@@ -1,0 +1,401 @@
+id,title,description,category,difficulty,courseUrl
+1,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner,https://example.com/course/1
+2,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate,https://example.com/course/2
+3,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner,https://example.com/course/3
+4,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced,https://example.com/course/4
+5,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate,https://example.com/course/5
+6,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner,https://example.com/course/6
+7,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate,https://example.com/course/7
+8,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate,https://example.com/course/8
+9,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate,https://example.com/course/9
+10,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced,https://example.com/course/10
+11,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner,https://example.com/course/11
+12,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced,https://example.com/course/12
+13,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate,https://example.com/course/13
+14,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced,https://example.com/course/14
+15,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner,https://example.com/course/15
+16,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate,https://example.com/course/16
+17,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced,https://example.com/course/17
+18,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner,https://example.com/course/18
+19,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate,https://example.com/course/19
+20,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced,https://example.com/course/20
+21,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+22,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+23,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+24,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+25,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+26,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+27,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+28,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+29,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+30,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+31,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+32,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+33,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+34,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+35,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+36,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+37,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+38,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+39,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+40,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+41,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+42,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+43,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+44,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+45,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+46,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+47,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+48,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+49,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+50,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+51,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+52,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+53,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+54,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+55,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+56,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+57,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+58,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+59,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+60,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+61,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+62,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+63,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+64,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+65,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+66,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+67,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+68,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+69,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+70,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+71,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+72,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+73,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+74,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+75,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+76,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+77,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+78,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+79,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+80,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+81,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+82,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+83,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+84,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+85,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+86,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+87,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+88,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+89,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+90,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+91,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+92,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+93,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+94,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+95,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+96,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+97,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+98,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+99,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+100,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+101,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+102,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+103,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+104,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+105,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+106,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+107,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+108,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+109,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+110,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+111,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+112,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+113,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+114,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+115,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+116,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+117,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+118,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+119,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+120,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+121,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+122,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+123,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+124,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+125,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+126,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+127,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+128,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+129,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+130,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+131,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+132,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+133,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+134,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+135,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+136,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+137,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+138,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+139,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+140,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+141,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+142,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+143,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+144,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+145,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+146,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+147,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+148,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+149,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+150,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+151,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+152,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+153,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+154,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+155,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+156,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+157,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+158,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+159,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+160,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+161,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+162,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+163,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+164,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+165,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+166,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+167,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+168,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+169,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+170,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+171,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+172,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+173,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+174,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+175,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+176,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+177,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+178,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+179,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+180,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+181,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+182,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+183,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+184,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+185,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+186,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+187,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+188,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+189,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+190,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+191,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+192,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+193,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+194,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+195,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+196,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+197,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+198,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+199,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+200,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+201,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+202,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+203,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+204,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+205,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+206,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+207,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+208,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+209,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+210,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+211,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+212,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+213,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+214,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+215,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+216,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+217,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+218,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+219,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+220,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+221,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+222,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+223,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+224,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+225,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+226,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+227,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+228,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+229,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+230,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+231,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+232,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+233,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+234,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+235,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+236,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+237,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+238,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+239,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+240,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+241,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+242,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+243,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+244,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+245,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+246,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+247,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+248,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+249,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+250,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+251,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+252,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+253,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+254,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+255,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+256,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+257,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+258,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+259,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+260,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+261,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+262,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+263,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+264,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+265,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+266,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+267,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+268,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+269,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+270,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+271,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+272,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+273,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+274,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+275,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+276,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+277,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+278,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+279,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+280,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+281,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+282,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+283,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+284,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+285,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+286,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+287,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+288,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+289,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+290,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+291,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+292,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+293,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+294,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+295,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+296,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+297,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+298,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+299,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+300,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+301,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+302,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+303,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+304,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+305,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+306,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+307,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+308,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+309,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+310,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+311,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+312,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+313,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+314,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+315,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+316,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+317,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+318,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+319,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+320,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+321,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+322,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+323,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+324,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+325,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+326,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+327,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+328,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+329,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+330,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+331,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+332,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+333,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+334,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+335,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+336,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+337,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+338,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+339,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+340,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+341,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+342,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+343,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+344,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+345,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+346,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+347,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+348,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+349,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+350,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+351,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+352,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+353,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+354,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+355,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+356,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+357,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+358,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+359,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+360,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+361,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+362,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+363,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+364,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+365,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+366,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+367,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+368,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+369,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+370,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+371,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+372,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+373,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+374,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+375,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+376,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+377,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+378,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+379,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+380,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
+381,Intro to Python,"Learn Python basics: variables, loops, functions, data types",Programming,Beginner
+382,Machine Learning Basics,"Supervised and unsupervised ML concepts, regression, classification",AI,Intermediate
+383,Web Development,"HTML, CSS, JavaScript fundamentals and building static websites",Web,Beginner
+384,Deep Learning,"Neural networks, CNNs, RNNs, and practical deep learning workflows",AI,Advanced
+385,Data Analysis,"Data cleaning, visualization, and pandas for analysis",Data,Intermediate
+386,Intro to Databases,"SQL basics, joins, indexing, and simple DB design",Databases,Beginner
+387,DevOps Essentials,"CI/CD basics, Docker introduction, and deployment workflows",DevOps,Intermediate
+388,Frontend Frameworks,"React.js fundamentals, components, and state management",Web,Intermediate
+389,Algorithms and Data Structures,"Core algorithms and data structures for competitive programming",CS,Intermediate
+390,Software Engineering Principles,"Design patterns, testing, and system design fundamentals",CS,Advanced
+391,Cloud Computing Fundamentals,"Introduction to AWS, Azure, cloud deployment models, and services",Cloud,Beginner
+392,Advanced Java,"Multithreading, concurrency, JVM internals, and performance tuning",Programming,Advanced
+393,Mobile App Development,"Android and iOS app development, UI/UX, and deployment",Mobile,Intermediate
+394,Big Data Analytics,"Hadoop, Spark, distributed data processing, and analytics",Data,Advanced
+395,Cybersecurity Basics,"Network security, encryption, firewalls, and threat detection",Security,Beginner
+396,Blockchain Essentials,"Distributed ledgers, smart contracts, and blockchain applications",Blockchain,Intermediate
+397,Natural Language Processing,"Text mining, sentiment analysis, and NLP with Python",AI,Advanced
+398,UI/UX Design Principles,"User interface and experience design, wireframing, prototyping",Design,Beginner
+399,Agile Project Management,"Scrum, Kanban, agile methodologies, and project delivery",Management,Intermediate
+400,Quantum Computing Intro,"Qubits, quantum gates, and basics of quantum algorithms",Quantum,Advanced
